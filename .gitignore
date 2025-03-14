@@ -1,0 +1,7 @@
+# Ignorar arquivos desnecessários
+*.log
+*.env
+/node_modules
+/vendor
+/database.sqlite
+/pdf/*
